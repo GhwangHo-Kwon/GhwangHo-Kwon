@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align='center'>
   <a href="https://github.com/GhwangHo-Kwon">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=KWON's%20Dev%20Repo&fontColor=000000&fontSize=60&fontAlign=50&fontAlignY=30&animation=fadeIn&desc=Python,%20C＋＋,%20CSharp&descAlign=50&descAlignY=55&textBg=false"/>
+    <img src="https://capsule-render.vercel.app/api?type=blur&height=400&color=gradient&text=KWON's%20Dev%20Repo&fontSize=60&fontAlignY=40&desc=Python,%20C＋＋,%20CSharp&descAlignY=60&descSize=30&fontColor=000000&reversal=true&animation=fadeIn"/>
   </a>
 </p>
 
