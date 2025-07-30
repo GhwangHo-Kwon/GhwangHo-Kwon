@@ -25,6 +25,13 @@ Here are some ideas to get you started:
 - **Name** : `Kwon GhwangHo`
 - **Email** : `hoo01041@gmail.com`
 
+## Project
+
+### 부경대학교 IoT 과정 프로젝트
+
+- [Mini-Project](https://github.com/GhwangHo-Kwon/iot-miniproject-2025)
+- [Final-Project]()
+
 ## GitHub Stat and Languages
 
 <p align='center'>
