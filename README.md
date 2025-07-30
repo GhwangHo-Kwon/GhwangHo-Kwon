@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ### 부경대학교 IoT 과정 프로젝트
 
 - [Mini-Project](https://github.com/GhwangHo-Kwon/iot-miniproject-2025)
-- [Final-Project]()
+- [Final-Project]() 8월 중 완료예정
 
 ## GitHub Stat and Languages
 
