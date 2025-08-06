@@ -25,6 +25,9 @@ Here are some ideas to get you started:
 - **Name** : `Kwon GhwangHo`
 - **Email** : `hoo01041@gmail.com`
 
+## Portfolio
+- [Portfolio](https://devgwangho.my.canva.site/portfolio)
+
 ## Project
 
 ### 부경대학교 IoT 과정 프로젝트
