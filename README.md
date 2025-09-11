@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ### 부경대학교 IoT 과정 프로젝트
 
 - [Mini-Project](https://github.com/GhwangHo-Kwon/iot-miniproject-2025)
-- [Final-Project](https://github.com/DarkCircle-Final/Kisame-House-Client) 9월 중 완료예정
+- [Final-Project](https://github.com/DarkCircle-Final/Kisame-House-Client)
 
 ## GitHub Stat and Languages
 
