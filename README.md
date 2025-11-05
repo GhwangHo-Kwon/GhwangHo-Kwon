@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 - [Final-Project](https://github.com/DarkCircle-Final/Kisame-House-Client)
 
 ## Job Career
-- Display Manufacturing Machinery Company (25.10.13 ~ )
-  - S/W Developer
-  - [Diary](https://github.com/GhwangHo-Kwon/Diary-Display-AppSW)
+- **Display Manufacturing Machinery Company (25.10.13 ~ )**
+  - **S/W Developer**
+  - **[Diary](https://github.com/GhwangHo-Kwon/Diary-Display-AppSW)**
 
 ## GitHub Stat and Languages
 
