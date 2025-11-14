@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ## Job Career
 - **Display Manufacturing Machinery Company (25.10.13 ~ )**
   - **S/W Developer**
-  - **[Diary](https://github.com/GhwangHo-Kwon/Diary-Display-AppSW)**
+  <!-- - **[Diary](https://github.com/GhwangHo-Kwon/Diary-Display-AppSW)** -->
 
 ## GitHub Stat and Languages
 
